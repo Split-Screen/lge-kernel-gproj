@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 107
-EXTRAVERSION = _Solid_Kernel_v1.8GPROJ-LP
+EXTRAVERSION = _Solid_Kernel_v1.81GPROJ-LP
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
